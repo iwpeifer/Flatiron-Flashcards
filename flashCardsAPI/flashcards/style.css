@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+  text-shadow: 2px 2px lime;
+}
+
+div {
+  background-color: cyan;
+  border-style: solid;
+}
+
+#flashcards li.subject {
+  font-weight: bold;
+  color: blue;
+}
+
+#flashcards li.answer {
+  font-style: italic;
+}
+
+#flashcards li{
+  list-style-type: none;
+}
